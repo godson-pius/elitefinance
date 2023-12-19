@@ -1,15 +1,15 @@
 <?php
 session_start();
 
-define("HOST", "localhost");
-define("USER", "root");
-define("PASSWORD", "");
-define("DBNAME", "vertex");
-
 // define("HOST", "localhost");
-// define("USER", "vertvcwc_vertexuser");
-// define("PASSWORD", "vertexpassword");
-// define("DBNAME", "vertvcwc_vertex");
+// define("USER", "root");
+// define("PASSWORD", "");
+// define("DBNAME", "vertex");
+
+define("HOST", "localhost");
+define("USER", "anamcrke_eliteuser");
+define("PASSWORD", "elitepwd");
+define("DBNAME", "anamcrke_elite");
 
 $link = mysqli_connect(HOST, USER, PASSWORD, DBNAME);
 

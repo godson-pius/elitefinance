@@ -140,7 +140,7 @@ if (isset($_POST['submit'])) {
                                     <form action="" method="POST">
                                         <div class="py-3">
                                             <div class="form-group">
-                                                <input type="text" class="form-control form-control-alt" name="email" placeholder="Account Email">
+                                                <input type="text" class="form-control form-control-alt" name="acc_num" placeholder="Account Number">
                                             </div>
                                             <div class="form-group">
                                                 <input type="password" class="form-control form-control-alt" name="password" placeholder="Password">

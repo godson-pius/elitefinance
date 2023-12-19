@@ -159,11 +159,17 @@ function user_login($post)
     $errors = [];
 
     //Checking for email...
-    if (!empty($email)) {
-        $email = sanitize($email);
+    if (!empty($acc_num)) {
+        $acc_num = sanitize($acc_num);
     } else {
-        $errors[] = "Please enter your email!";
+        $errors[] = "Please enter your account number!";
     }
+   
+    // if (!empty($email)) {
+    //     $email = sanitize($email);
+    // } else {
+    //     $errors[] = "Please enter your email!";
+    // }
 
 
     //Checking for password...
@@ -176,7 +182,7 @@ function user_login($post)
 
     //The Sql Statement...
     if (!$errors) {
-        $sql = "SELECT * FROM users WHERE email = '$email'";
+        $sql = "SELECT * FROM users WHERE acc_number = '$acc_num'";
         $result = executeQuery($sql);
         if ($result) {
             $encryptedpassword = $result['password'];
