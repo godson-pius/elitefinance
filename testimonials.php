@@ -52,7 +52,7 @@
                         </div>
                     </div>
                     <div class="text-box">
-                        <p>Experience with Finbank has been very accommodating forthey
+                        <p>Experience with Elitefinance has been very accommodating forthey
                             have online banking. When I need to transfer funds and pay bills it
                             can be done at my convenience.</p>
                     </div>
@@ -86,7 +86,7 @@
                         </div>
                     </div>
                     <div class="text-box">
-                        <p>All of the employees at Finbank are extremely helpful and friendly,
+                        <p>All of the employees at Elitefinance are extremely helpful and friendly,
                             I've never had a long wait.</p>
                     </div>
                     <div class="customer-info">
@@ -155,7 +155,7 @@
                         </div>
                     </div>
                     <div class="text-box">
-                        <p>Finbank has been outstanding in the services they have provided me. I have utilized
+                        <p>Elitefinance has been outstanding in the services they have provided me. I have utilized
                             their services for over a year while mobilized for the Army Reserve. They are very
                             responsive to communications as well as follow through, and have made my baking
                             experiences painless. The staff is friendly and go out of their way to ensure
@@ -192,7 +192,7 @@
                         </div>
                     </div>
                     <div class="text-box">
-                        <p>Experience with Finbank has been very accommodating forthey
+                        <p>Experience with Elitefinance has been very accommodating forthey
                             have online banking. When I need to transfer funds and pay bills it
                             can be done at my convenience.</p>
                     </div>
@@ -226,7 +226,7 @@
                         </div>
                     </div>
                     <div class="text-box">
-                        <p>All of the employees at Finbank are extremely helpful and friendly,
+                        <p>All of the employees at Elitefinance are extremely helpful and friendly,
                             I've never had a long wait.</p>
                     </div>
                     <div class="customer-info">
@@ -260,7 +260,7 @@
                         </div>
                     </div>
                     <div class="text-box">
-                        <p>Finbank has been outstanding in the services they have provided me. I have utilized
+                        <p>Elitefinance has been outstanding in the services they have provided me. I have utilized
                             their services for over a year while mobilized for the Army Reserve. They are very
                             responsive to communications as well as follow through, and have made my baking
                             experiences painless. The staff is friendly and go out of their way to ensure
