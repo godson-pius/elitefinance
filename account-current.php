@@ -90,7 +90,7 @@
                         <h2> Current Account</h2>
                     </div>
                     <div class="text">
-                        <p>Elitefinance current account is a flexible account designed for everyday transactions, offering easy access to funds through checks, electronic transfers, and debit cards. Unlike savings accounts, it is focused on facilitating frequent financial activities without typically providing interest on balances.</p>
+                        <p>Horizoncave current account is a flexible account designed for everyday transactions, offering easy access to funds through checks, electronic transfers, and debit cards. Unlike savings accounts, it is focused on facilitating frequent financial activities without typically providing interest on balances.</p>
                     </div>
                     <div class="btns-box">
                         <a class="btn-one" href="user/signup">

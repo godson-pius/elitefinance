@@ -42,7 +42,7 @@ if (isset($_GET['imff'])) {
                 <body>
                     <center>
                     <div style='background: #452121; padding: 1rem; color: #fff !important; border-radius: 0.25rem!important; width: 500px; text-align: center!important; box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;'>
-                    <img src='https://elitefinance.com/media/white-logo.png' width='150' style='border-radius: 0.25rem!important' alt='Elitefinance'> <br>
+                    <img src='https://horizoncave.com/media/white-logo.png' width='150' style='border-radius: 0.25rem!important' alt='Horizoncave'> <br>
             
                         <h2 style='color: #fff !important'>Dear $userName,</h2>
                         <h3 style='color: #fff !important'>This is your ONE-TIME-PASSWORD</h3> <hr>
@@ -50,7 +50,7 @@ if (isset($_GET['imff'])) {
                         <h1 style='font-size: 55px; color: #fff !important'>$otp</h1>
 
                         <p style='color: #fff !important'>
-                            <i>Elitefinance</i>
+                            <i>Horizoncave</i>
                         </p>
                 </div>
                     </center>

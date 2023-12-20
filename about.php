@@ -218,7 +218,7 @@
                     <div class="text">
                         <p>Empowering financial success, we commit to providing innovative, secure, and personalized banking solutions. With a focus on integrity and community impact, we strive to be the trusted partner in our customers' financial journeys, fostering growth and prosperity. Through cutting-edge technology and a customer-centric approach, we aim to exceed expectations, building enduring relationships and contributing to the economic well-being of the communities we serve.</p>
                         <div class="btn-box">
-                            <a href="index"><span class="icon-right-arrow"></span>Elitefinance</a>
+                            <a href="index"><span class="icon-right-arrow"></span>Horizoncave</a>
                         </div>
                     </div>
                 </div>

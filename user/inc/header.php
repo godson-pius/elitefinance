@@ -27,14 +27,14 @@ if ($title == "transfer" && $access == 0) {
 
     <title><?= $fullname; ?> Dashboard</title>
 
-    <meta name="description" content="This is user dashboard for Elitefinance customers">
-    <meta name="author" content="Elitefinance">
+    <meta name="description" content="This is user dashboard for Horizoncave customers">
+    <meta name="author" content="Horizoncave">
     <meta name="robots" content="noindex, nofollow">
 
     <!-- Open Graph Meta -->
     <meta property="og:title" content="User Dashboard">
-    <meta property="og:site_name" content="Elitefinance">
-    <meta property="og:description" content="This is user dashboard for Elitefinance customers">
+    <meta property="og:site_name" content="Horizoncave">
+    <meta property="og:description" content="This is user dashboard for Horizoncave customers">
     <meta property="og:type" content="website">
     <meta property="og:url" content="">
     <meta property="og:image" content="">
@@ -178,7 +178,7 @@ if ($title == "transfer" && $access == 0) {
                 <div class="content-header justify-content-lg-center bg-header-dark">
                     <!-- Logo -->
                     <a class="font-w600 text-white tracking-wide" href="index">
-                        Elite<span class="opacity-75"> Finance</span>
+                        Horizon<span class="opacity-75"> Cave</span>
                         <span class="font-w400">Banking</span>
                     </a>
                     <!-- END Logo -->

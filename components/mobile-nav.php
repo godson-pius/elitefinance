@@ -13,7 +13,7 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="fa fa-envelope"></i>
-                <a href="mailto:info@example.com">info@elitefinance.com</a>
+                <a href="mailto:info@example.com">info@horizoncave.com</a>
             </li>
             <li>
                 <i class="fa fa-phone-alt"></i>

@@ -362,7 +362,7 @@
                         <ul class="sidebar-categories-box">
                             <li><a href="#">Announcements</a></li>
                             <li><a href="#">Banking</a></li>
-                            <li><a href="#">Finance</a></li>
+                            <li><a href="#">Cave</a></li>
                             <li><a href="#">Investment</a></li>
                             <li><a href="#">Press Release</a></li>
                             <li><a href="#">Technology</a></li>

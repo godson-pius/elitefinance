@@ -74,7 +74,7 @@ if (isset($_POST['submit'])) {
                             <div class="text">
                                 <p>Front Desk</p>
                                 <h3><a href="tel:123456789">(435) 932-0111</a></h3>
-                                <h3><a href="mailto:yourmail@email.com">supportyou@elitefinance.com</a></h3>
+                                <h3><a href="mailto:yourmail@email.com">supportyou@horizoncave.com</a></h3>
                             </div>
                         </li>
                     </ul>
@@ -208,7 +208,7 @@ if (isset($_POST['submit'])) {
                 <div class="tab-content-box-item tab-content-box-item-active" id="branch">
                     <div class="branch-atm-tab-content-box-item">
                         <div class="inner-title">
-                            <h3>Elitefinance,<br> USA</h3>
+                            <h3>Horizoncave,<br> USA</h3>
                         </div>
                         <ul>
                             <li>
@@ -218,7 +218,7 @@ if (isset($_POST['submit'])) {
                             <li>
                                 <h3>Phone & Email</h3>
                                 <p><a href="tel:123456789">(435) 932-0111</a></p>
-                                <p><a href="mailto:yourmail@email.com">support@elitefinance.com</a></p>
+                                <p><a href="mailto:yourmail@email.com">support@horizoncave.com</a></p>
                             </li>
                         </ul>
                     </div>
@@ -304,7 +304,7 @@ if (isset($_POST['submit'])) {
                                                                 <span>(Toll Free)</span>
                                                             </li>
                                                             <li>
-                                                                <a class="color2" href="mailto:customercare@elitefinance.com">customercare@elitefinance.com</a>
+                                                                <a class="color2" href="mailto:customercare@horizoncave.com">customercare@horizoncave.com</a>
                                                             </li>
                                                         </ul>
                                                     </td>
@@ -343,7 +343,7 @@ if (isset($_POST['submit'])) {
                                                                 <span>(Toll Free)</span>
                                                             </li>
                                                             <li>
-                                                                <a class="color2" href="mailto:customercare@elitefinance.com">customercare@elitefinance.com</a>
+                                                                <a class="color2" href="mailto:customercare@horizoncave.com">customercare@horizoncave.com</a>
                                                             </li>
                                                         </ul>
                                                     </td>

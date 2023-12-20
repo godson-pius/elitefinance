@@ -25,15 +25,15 @@ foreach ($admin_details as $admin) {
     <title>Admin Dashboard</title>
 
     <meta name="description" content="Admin Dashboard">
-    <meta name="author" content="Elitefinance">
+    <meta name="author" content="Horizoncave">
     <meta name="robots" content="noindex, nofollow">
 
     <!-- Open Graph Meta -->
     <meta property="og:title" content="Admin Dashboard">
-    <meta property="og:site_name" content="Elitefinance">
-    <meta property="og:description" content="Elitefinance Dashboard">
+    <meta property="og:site_name" content="Horizoncave">
+    <meta property="og:description" content="Horizoncave Dashboard">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="elitefinance.com/admin">
+    <meta property="og:url" content="horizoncave.com/admin">
     <meta property="og:image" content="../assets/images/be-logo.png">
 
     <!-- Icons -->
@@ -114,7 +114,7 @@ foreach ($admin_details as $admin) {
                             D<span class="opacity-75">x</span>
                         </span>
                         <span class="smini-hidden">
-                            Elitefinance<span class="opacity-75"> Bank</span>
+                            Horizoncave<span class="opacity-75"> Bank</span>
                         </span>
                     </a>
                     <!-- END Logo -->

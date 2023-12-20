@@ -90,7 +90,7 @@
                         <h2>Salary Account</h2>
                     </div>
                     <div class="text">
-                        <p>Elitefinance Salary Account is a designated account into which employers deposit their employees' monthly salaries. This account typically offers convenient features such as easy access to funds, along with additional benefits like overdraft facilities or zero-balance requirements. It serves as a streamlined financial platform tailored to meet the specific needs of salaried individuals, ensuring timely and efficient salary disbursements while providing access to supplementary banking perks.</p>
+                        <p>Horizoncave Salary Account is a designated account into which employers deposit their employees' monthly salaries. This account typically offers convenient features such as easy access to funds, along with additional benefits like overdraft facilities or zero-balance requirements. It serves as a streamlined financial platform tailored to meet the specific needs of salaried individuals, ensuring timely and efficient salary disbursements while providing access to supplementary banking perks.</p>
                     </div>
                     <div class="btns-box">
                         <a class="btn-one" href="user/signup">

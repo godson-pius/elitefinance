@@ -154,7 +154,7 @@
                                 <div class="category-date-box">
                                     <div class="category">
                                         <span class="icon-play-button-1"></span>
-                                        <h5>Finance</h5>
+                                        <h5>Cave</h5>
                                     </div>
                                     <div class="date">
                                         <h5>May 10, 2022</h5>
@@ -309,7 +309,7 @@
                                 <div class="category-date-box">
                                     <div class="category">
                                         <span class="icon-play-button-1"></span>
-                                        <h5>Finance</h5>
+                                        <h5>Cave</h5>
                                     </div>
                                     <div class="date">
                                         <h5>May 10, 2022</h5>
@@ -399,7 +399,7 @@
                         <ul class="sidebar-categories-box">
                             <li><a href="#">Announcements</a></li>
                             <li><a href="#">Banking</a></li>
-                            <li><a href="#">Finance</a></li>
+                            <li><a href="#">Cave</a></li>
                             <li><a href="#">Investment</a></li>
                             <li><a href="#">Press Release</a></li>
                             <li><a href="#">Technology</a></li>

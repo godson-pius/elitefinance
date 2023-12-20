@@ -109,12 +109,12 @@
                         <div class="our-company-info">
                             <div class="footer-logo-style1">
                                 <a href="index">
-                                    <img src="assets/images/footer/footer-logo-1.png" alt="Awesome Logo" title="logo" width="200">
+                                    <img src="assets/images/footer/footer-logo-1.png" alt="Awesome Logo" title="logo" width="255">
                                 </a>
                             </div>
                             <div class="copyright-text">
                                 <p>
-                                    Copyright &copy; 2022 <a href="index">Elitefinance.</a> Licensed by the<br>
+                                    Copyright &copy; 2022 <a href="index">Horizoncave.</a> Licensed by the<br>
                                     Central Bank of America.
                                 </p>
                             </div>

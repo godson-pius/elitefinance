@@ -90,7 +90,7 @@
                         <h2>Fixed Deposit Account</h2>
                     </div>
                     <div class="text">
-                        <p>Elitefinance Fixed Deposit Account is a secure savings option wherein a predetermined sum is deposited for a fixed tenure at a specified interest rate. This financial instrument offers stability and guarantees returns upon maturity, making it an attractive choice for individuals seeking a low-risk investment with a fixed and known interest outcome.</p>
+                        <p>Horizoncave Fixed Deposit Account is a secure savings option wherein a predetermined sum is deposited for a fixed tenure at a specified interest rate. This financial instrument offers stability and guarantees returns upon maturity, making it an attractive choice for individuals seeking a low-risk investment with a fixed and known interest outcome.</p>
                     </div>
                     <div class="btns-box">
                         <a class="btn-one" href="user/signup">

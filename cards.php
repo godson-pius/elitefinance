@@ -40,7 +40,7 @@
                         <img src="assets/images/resources/card-banner-img-1.png" alt="">
                     </div>
                     <div class="inner-title">
-                        <h4>Elitefinance Credit Card</h4>
+                        <h4>Horizoncave Credit Card</h4>
                         <h2>Higher Efficiencies &<br> Savings</h2>
                     </div>
                     <div class="text">
@@ -109,10 +109,10 @@
                             </div>
                         </div>
                         <div class="cards-text-box">
-                            <p>Elitefinance business card efficiently separates and tracks business expenses while enhancing professionalism.</p>
+                            <p>Horizoncave business card efficiently separates and tracks business expenses while enhancing professionalism.</p>
                             <h3>Features & Benefits</h3>
                             <ul>
-                                <li>Separation of Finances</li>
+                                <li>Separation of Caves</li>
                                 <li>Building Business Credit</li>
                                 <li>Expense Tracking</li>
                             </ul>
@@ -142,7 +142,7 @@
                             </div>
                         </div>
                         <div class="cards-text-box">
-                            <p>Elitefinance premium card offers superior benefits and exclusive perks for elevated financial management.</p>
+                            <p>Horizoncave premium card offers superior benefits and exclusive perks for elevated financial management.</p>
                             <h3>Features & Benefits</h3>
                             <ul>
                                 <li>Enhanced Rewards</li>
@@ -177,7 +177,7 @@
                             </div>
                         </div>
                         <div class="cards-text-box">
-                            <p>Elitefinance Standard cards provide essential financial tools with basic features, offering simplicity and convenience for everyday transactions. </p>
+                            <p>Horizoncave Standard cards provide essential financial tools with basic features, offering simplicity and convenience for everyday transactions. </p>
                             <h3>Features & Benefits</h3>
                             <ul>
                                 <li>Basic Rewards</li>

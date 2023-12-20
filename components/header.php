@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Elitefinance - Better Future</title>
+    <title>Horizoncave - Better Future</title>
     <!-- Favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/resources/ogg.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/resources/favicon.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/resources/ogg.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Elitefinance is a universal bank, which is operational from any part of the world" />
+    <meta name="description" content="Horizoncave is a universal bank, which is operational from any part of the world" />
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
@@ -47,11 +47,11 @@
     <link rel="stylesheet" href="assets/css/responsive.css" />
 
     <!-- Open Graph Meta -->
-    <meta property="og:title" content="Elitefinance">
-    <meta property="og:site_name" content="Elitefinance">
-    <meta property="og:description" content="Elitefinance is a universal bank, which is operational from any part of the world">
+    <meta property="og:title" content="Horizoncave">
+    <meta property="og:site_name" content="Horizoncave">
+    <meta property="og:description" content="Horizoncave is a universal bank, which is operational from any part of the world">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="elitefinance.com">
+    <meta property="og:url" content="horizoncave.com">
     <meta property="og:image" content="assets/images/resources/ogg.png">
 
 </head>
@@ -67,27 +67,39 @@
                 <div class="animation-preloader">
                     <div class="spinner"></div>
                     <div class="txt-loading">
-                        <span data-text-preloader="e" class="letters-loading">
-                            e
+                        <span data-text-preloader="h" class="letters-loading">
+                            h
                         </span>
-                        <span data-text-preloader="l" class="letters-loading">
-                            l
+                        <span data-text-preloader="o" class="letters-loading">
+                            o
+                        </span>
+                        <span data-text-preloader="r" class="letters-loading">
+                            r
                         </span>
                         <span data-text-preloader="i" class="letters-loading">
                             i
                         </span>
-                        <span data-text-preloader="t" class="letters-loading">
-                            t
+                        <span data-text-preloader="z" class="letters-loading">
+                            z
+                        </span>
+                        <span data-text-preloader="o" class="letters-loading">
+                            o
+                        </span>
+                        <span data-text-preloader="n" class="letters-loading">
+                            n
+                        </span>
+                        <span data-text-preloader="c" class="letters-loading">
+                            c
+                        </span>
+                        <span data-text-preloader="a" class="letters-loading">
+                            a
+                        </span>
+                        <span data-text-preloader="v" class="letters-loading">
+                            v
                         </span>
                         <span data-text-preloader="e" class="letters-loading">
                             e
                         </span>
-                        <!-- <span data-text-preloader="x" class="letters-loading">
-                            
-                        </span> -->
-                        <!-- <span data-text-preloader="b" class="letters-loading">
-                            b
-                        </span> -->
                     </div>
                 </div>
             </div>
@@ -277,7 +289,7 @@
                                 <h4>Updates:</h4>
                             </div>
                             <div class="text">
-                                <p>Get upto 4%* on our Savings Account Balances with Elitefinance.</p>
+                                <p>Get upto 4%* on our Savings Account Balances with Horizoncave.</p>
                                 <a href="accounts"><span class="icon-chevron"></span>More Details</a>
                             </div>
                         </div>

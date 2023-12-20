@@ -82,7 +82,7 @@
                                     </div>
                                     <div class="text">
                                         <p>
-                                            Elitefinance is a universal bank, which is operational from any part of the world.
+                                            Horizoncave is a universal bank, which is operational from any part of the world.
                                         </p>
                                     </div>
                                     <div class="btns-box">
@@ -177,7 +177,7 @@
                         </div>
                         <div class="text-box">
                             <h4>Open Account</h4>
-                            <h3>Open account with Elitefinance</h3>
+                            <h3>Open account with Horizoncave</h3>
                             <p>Open an account and open your world to more.</p>
                             <div class="btn-box">
                                 <a href="user/signup">
@@ -204,7 +204,7 @@
                         </div>
                         <div class="text-box">
                             <h4>Cards</h4>
-                            <h3>Elitefinance Cards</h3>
+                            <h3>Horizoncave Cards</h3>
                             <p>Cards you can use anywhere for all your financial.</p>
                             <div class="btn-box">
                                 <a href="cards">
@@ -377,7 +377,7 @@
                                                     </div>
                                                     <h3><a href="#">Personal Banking</a></h3>
                                                     <div class="border-box"></div>
-                                                    <p>Elitefinance Bank personal savings account options are designed to help you meet your financial goals.</p>
+                                                    <p>Horizoncave Bank personal savings account options are designed to help you meet your financial goals.</p>
                                                     <!-- <h6><span>*</span> Interest rate up to 5% p.a</h6> -->
                                                     <div class="btn-box">
                                                         <a href=""><span class="icon-right-arrow"></span></a>
@@ -555,7 +555,7 @@
                             </div>
                         </div>
                         <div class="text-box">
-                            <p>Elitefinance Pension schemes are retirement savings plans, typically employer-sponsored. you can give it a try.</p>
+                            <p>Horizoncave Pension schemes are retirement savings plans, typically employer-sponsored. you can give it a try.</p>
                         </div>
                     </div>
                     <!--End Single Wealth Secure Box-->

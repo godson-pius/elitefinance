@@ -90,7 +90,7 @@
                         <h2>Savings Account</h2>
                     </div>
                     <div class="text">
-                        <p>Elitefinance savings account is a type account designed for storing and accumulating funds while earning interest. It provides a secure place for individuals to deposit money, with the primary goal of saving rather than frequent transactions. Unlike a checking account, savings accounts usually have limitations on withdrawals and may offer higher interest rates, making them a conservative option for building and preserving financial reserves.</p>
+                        <p>Horizoncave savings account is a type account designed for storing and accumulating funds while earning interest. It provides a secure place for individuals to deposit money, with the primary goal of saving rather than frequent transactions. Unlike a checking account, savings accounts usually have limitations on withdrawals and may offer higher interest rates, making them a conservative option for building and preserving financial reserves.</p>
                     </div>
                     <div class="btns-box">
                         <a class="btn-one" href="user/signup">

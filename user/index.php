@@ -133,7 +133,7 @@ if ($currency == 'USD') {
                         </div>
                     </div>
                     <div class="block-content block-content-full block-content-sm text-center bg-body-light">
-                        <span class="font-size-sm text-muted">Elitefinance Bank</span>
+                        <span class="font-size-sm text-muted">Horizoncave Bank</span>
                     </div>
                 </a>
                 <!-- END Bank Account #1 -->
@@ -156,7 +156,7 @@ if ($currency == 'USD') {
                         </div>
                     </div>
                     <div class="block-content block-content-full block-content-sm text-center bg-body-light">
-                        <span class="font-size-sm text-muted">Elitefinance Bank</span>
+                        <span class="font-size-sm text-muted">Horizoncave Bank</span>
                     </div>
                 </a>
                 <!-- END Bank Account #1 -->
@@ -179,7 +179,7 @@ if ($currency == 'USD') {
                         </div>
                     </div>
                     <div class="block-content block-content-full block-content-sm text-center bg-body-light">
-                        <span class="font-size-sm text-muted">Elitefinance Bank</span>
+                        <span class="font-size-sm text-muted">Horizoncave Bank</span>
                     </div>
                 </a>
                 <!-- END Bank Account #1 -->
@@ -214,7 +214,7 @@ if ($currency == 'USD') {
                             </div>
                         </div>
                         <div class="block-content block-content-full block-content-sm text-center bg-body-light">
-                            <span class="font-size-sm text-muted">Elitefinance Bank</span>
+                            <span class="font-size-sm text-muted">Horizoncave Bank</span>
                         </div>
                     </a>
                     <!-- END Bank Account #1 -->
@@ -259,7 +259,7 @@ if ($currency == 'USD') {
                         </div>
                     </div>
                     <div class="block-content block-content-full block-content-sm bg-body-light">
-                        <span class="font-size-sm text-muted">Elitefinance: At <strong><?= date("M d, Y", strtotime($trans['created_at'])); ?> - <?= date("h:i A", strtotime($trans['created_at'])) ?></strong></span>
+                        <span class="font-size-sm text-muted">Horizoncave: At <strong><?= date("M d, Y", strtotime($trans['created_at'])); ?> - <?= date("h:i A", strtotime($trans['created_at'])) ?></strong></span>
                     </div>
                 </a>
         <?php }

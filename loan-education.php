@@ -72,7 +72,7 @@
                 <div class="single-applying-process-box">
                     <div class="applying-process-single-step-box">03</div>
                     <h3>Process Your Request</h3>
-                    <p>Complete Elitefinance loan via the instruction given from the support team</p>
+                    <p>Complete Horizoncave loan via the instruction given from the support team</p>
                 </div>
             </div>
             <!--End Single Applying Process box-->
