@@ -7,9 +7,9 @@ session_start();
 // define("DBNAME", "vertex");
 
 define("HOST", "localhost");
-define("USER", "anamcrke_eliteuser");
-define("PASSWORD", "elitepwd");
-define("DBNAME", "anamcrke_elite");
+define("USER", "horiesty_horizonuser");
+define("PASSWORD", "horizonpassword");
+define("DBNAME", "horiesty_horizon");
 
 $link = mysqli_connect(HOST, USER, PASSWORD, DBNAME);
 
