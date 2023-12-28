@@ -13,12 +13,13 @@ if (isset($_POST['submit'])) {
     $response = wire_transfer($_POST, $id);
     if ($response === true) {
         echo "Transaction Successful";
-        echo "<script>window.location.href = 'pending'</script>";
+        // echo "<script>window.location.href = 'pending'</script>";
+        echo "<script>setTimeout(() => {window.location.href = 'index'}, 3000)</script>";
     } else {
         $errors = $response;
         if (is_array($errors)) {
             foreach ($errors as $err) {
-                echo "<script>alert('$err')</s>";
+                echo "<script>alert('$err')</script>";
             }
         } else {
             echo "<script>alert('$errors')</script>";
