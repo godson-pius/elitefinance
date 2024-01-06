@@ -35,7 +35,6 @@ wireForm.addEventListener('submit', (e) => {
                                 setTimeout(() => {
                                     alert(f)
                                     wireForm.reset()
-                                    window.location.href = "pending"
                                     document.getElementById('tbtn').innerHTML = 'Make Transfer'
                                     document.getElementById('tbtn').style.display = 'none'
                                 }, 10000)

@@ -86,6 +86,14 @@ if ($err_flag === false) {
         $receiver_fullname = $rec_result['fullname'];
 
         if ($amount <= $total_balance) {
+
+            // CREDIT RECEIVER ACCOUNT
+            credit_user_account(null, $acc_number, $amount);
+
+            // UPDATE Account Balance
+            $update_account_sql = "UPDATE users SET acc_balance = $available_balance WHERE id = $user_id";
+            $update_account_query = validateQuery($update_account_sql);
+            
             $sql2 = "INSERT INTO transactions (user_id, type, amount, to_user, beneficiary, bank_name, swift_code, routing_number, account_type, description, created_at) VALUES ($user_id, 1, $amount, '$acc_number', '$acc_name', '$bank_name', '$swift_code', '$routing_number', '$type', '$desc', now())";
             $query2 = validateQuery($sql2);
 
